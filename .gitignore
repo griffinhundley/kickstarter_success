@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-data/
+data/Kickstarter_full.csv
 .DS_Store
