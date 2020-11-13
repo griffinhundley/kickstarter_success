@@ -58,7 +58,7 @@ There were also distinct differences in success rates between the different cate
 
 ***
 
-For further project development, we would incorporate backer rewards into the model. The number of rewards available to backers, the monetary levels of those rewards and the quality of rewards may all contibriute to whether or not a backers will pledge. 
+For further project development, we would incorporate backer rewards into the model. The number of rewards available to backers, the monetary levels of those rewards and the quality of rewards may all contibriute to whether or not a backers will pledge. In addition, how success rates have varied over time may be useful information for both Kickstarter and future backers. Finally, an analysis of how our model does on other crowdfunding platforms like Indiegogo and GoFundMe, may help reveal what project do best on kickstater vs elsewhere.
 
 ## Repository Structure
 
@@ -70,5 +70,7 @@ For further project development, we would incorporate backer rewards into the mo
 ├── data                                <- compiled csv file of sourced data, and compressed version
 ├── images                              <- Sourced externally and visualizations generated from code
 ├── notebooks                           <- All notebooks used in this project, including the Final_Notebook
+│   └── scratch_notebooks               <- Notebooks used for experimentation
+├── 
 └── src                                 <- Code files referenced in project
 ```
