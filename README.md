@@ -32,7 +32,7 @@ We wanted to create an interpretable model using only features that are known at
 
 After running Random Forset, XGBoost, and Logistic Regression models, we chose Logistic Regression for to maximize interpretability and because it had similarly high accuracy and f1 scores to other models. 
 
-Our model was able to predict success or failure of a project with about 80% accuracy and an f1 score of .8. ROCAUC?
+Our model was able to predict success or failure of a project with about 80% accuracy and an f1 score of .8.
 
 ## Conculsion
 
