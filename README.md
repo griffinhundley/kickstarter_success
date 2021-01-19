@@ -34,7 +34,7 @@ After running Random Forset, XGBoost, and Logistic Regression models, we chose L
 
 Our model was able to predict success or failure of a project with about 80% accuracy and an f1 score of .8.
 
-## Conculsion
+## Conclusion
 
 ***
 
